@@ -1,0 +1,11 @@
+# Local database credentials (overrides core/dbConfig.php defaults)
+core/config.local.php
+
+# Temporary test files
+test_connection.php
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
